@@ -9,7 +9,11 @@ It's largely similar to the package you'd receive running `npx create-react-app 
 - TS configurations
 - husky
 
-Additionally, this app works locally for me using Node v21.
+Additionally, this app currently runs with Node v21.7.1.
+
+Run the following commands inside this repository:
+- `nvm install`
+- `nvm use`
 
 For all the other README information CRA provides, visit their [GitHub](https://github.com/facebook/create-react-app).
 
