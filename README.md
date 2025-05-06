@@ -1,6 +1,7 @@
 # Base Create React App Template
 
-Since Create React App (CRA) has been "deprecated", this repo exists solely as a base template for any future SPAs I want to build using it.
+> [!IMPORTANT]
+> Since Create React App (CRA) has been deprecated, this repo will no longer be maintained. If you want to use a React + TS starting template (with some opinionated configurations baked in), please reference my [base vite template](https://github.com/coreycaskey/base-vite-react-template).
 
 It's largely similar to the package you'd receive running `npx create-react-app {app-name} --template typescript` with some additional configurations that I prefer for my VS Code environment, e.g.
 
